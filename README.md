@@ -1,4 +1,13 @@
 ### Hi there 👋
+### My name is Peninah.
+### I'm a junior frontend developer 💻
+### passionate about everything Javascript(react, vue, node) and 
+### designing UI/UX (AdobeXD)
+### Currently self-learning 🌱
+### Computer science student class of 2021
+### I hail from Kenya 📌 and
+### hope to connect with more devs 😀
+### connect with me : 📫peshnase@gmail.com  📲 _n.a.s.e.r.i.a.n
 
 <!--
 **peninahnaserian/peninahnaserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
