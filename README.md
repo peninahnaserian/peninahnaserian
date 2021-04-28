@@ -7,7 +7,7 @@
 ### Bsc(Hons) Computer science class of 2021
 ### I hail from Kenya 📌 and
 ### hope to connect with more devs 😀
-### connect with me : 📫peshnase@gmail.com  📲 _n.a.s.e.r.i.a.n
+### connect with me : 📫peshnase@gmail.com  📲 _n.a.s.e.r.i.a.n  [LI] https://www.linkedin.com/in/peninah-naserian-47b550160/
 
 <!--
 **peninahnaserian/peninahnaserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
