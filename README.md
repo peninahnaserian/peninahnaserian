@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### My name is Peninah.
 ### I'm a software developer 💻
-### passionate about everything Javascript(react, vue, node) and 
+### passionate about everything Javascript(react, vue, node)
 ### designing UI/UX (AdobeXD)
+### cloud computing.
 ### Currently self-learning data science and devops🌱
 ### Bsc(Hons) Computer science class of 2021
 ### I hail from Kenya 📌 and
