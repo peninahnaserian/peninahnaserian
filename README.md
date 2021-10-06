@@ -4,7 +4,7 @@
 ### passionate about everything Javascript(react, vue, node)
 ### designing UI/UX (AdobeXD)
 ### cloud computing.
-### Currently self-learning cloud computing and devops🌱
+### Currently self-learning cloud computing 🌱
 ### Bsc(Hons) Computer science class of 2021
 ### I hail from Kenya 📌 and
 ### hope to connect with more devs 😀
