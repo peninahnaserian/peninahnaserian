@@ -1,14 +1,18 @@
-### Hi there 👋
-### My name is Peninah.
-### I'm a software developer 💻
-### passionate about everything Javascript(react, vue, node)
-### designing UI/UX (AdobeXD)
-### cloud computing.
-### Currently self-learning cloud computing 🌱
-### Bsc(Hons) Computer science class of 2021
-### I hail from Kenya 📌 and
-### hope to connect with more devs 😀
-### connect with me : 📫peshnase@gmail.com  📲 https://www.linkedin.com/in/peninah-naserian-47b550160/
+# Introduction
+Hi there 👋
+My name is Peninah.
+I'm a software developer 💻
+
+### Tech Stack
+passionate about everything Javascript(react, vue, node)
+designing UI/UX (AdobeXD)
+cloud computing.
+
+### Education
+ Bsc(Hons) Computer science class of 2021
+ 
+### Socials
+connect with me : 📫peshnase@gmail.com  📲 https://www.linkedin.com/in/peninah-naserian-47b550160/
 
 <!--
 **peninahnaserian/peninahnaserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
