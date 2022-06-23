@@ -25,7 +25,7 @@ Skilled in the following Tools/Technologies:
 ### Socials
 connect with me : 
 - 📫peshnase@gmail.com  
-- 📲 https://www.linkedin.com/in/peninah-naserian-47b550160/
+- 📲 https://www.linkedin.com/in/peninahnaserian/
 
 <!--
 **peninahnaserian/peninahnaserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
