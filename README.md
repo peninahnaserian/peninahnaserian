@@ -1,18 +1,31 @@
 # Introduction
 Hi there 👋
-My name is Peninah.
-I'm a software developer 💻
+My name is Peninah, a DevOps engineer good at the following:
+- Automating cloud infrastructure
+- Building container platforms
+- Configuring monitoring and log management
+- Designing effective CI/CD pipelines
 
-### Tech Stack
-passionate about everything Javascript(react, vue, node)
-designing UI/UX (AdobeXD)
-cloud computing.
+### Skills
+My Tech Stack is MERN.
+Skilled in the following Tools/Technologies:
+- Amazon Web Services
+- Kubernetes
+- Docker
+- Linux
+- Terraform
+- Ansible
+- Git
+- Monitoring
+- Log management
 
 ### Education
  Bsc(Hons) Computer science class of 2021
  
 ### Socials
-connect with me : 📫peshnase@gmail.com  📲 https://www.linkedin.com/in/peninah-naserian-47b550160/
+connect with me : 
+- 📫peshnase@gmail.com  
+- 📲 https://www.linkedin.com/in/peninah-naserian-47b550160/
 
 <!--
 **peninahnaserian/peninahnaserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
