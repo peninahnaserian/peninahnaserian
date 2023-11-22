@@ -24,7 +24,7 @@ Skilled in the following Tools/Technologies:
  
 ### Socials
 connect with me : 
-- 📫peshnase@gmail.com  
+- 📫lemayianpeninah@gmail.com  
 - 📲 https://www.linkedin.com/in/peninahnaserian/
 
 <!--
