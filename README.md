@@ -18,9 +18,6 @@ Skilled in the following Tools/Technologies:
 - Git
 - Monitoring
 - Log management
-
-### Education
- Bsc(Hons) Computer science class of 2021
  
 ### Socials
 connect with me : 
