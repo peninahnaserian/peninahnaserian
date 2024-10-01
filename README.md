@@ -1,23 +1,10 @@
 # Introduction
 Hi there 👋
-My name is Peninah, a DevOps engineer good at the following:
-- Automating cloud infrastructure
-- Building container platforms
-- Configuring monitoring and log management
-- Designing effective CI/CD pipelines
+My name is Peninah , a Software Engineer
 
 ### Skills
 My Tech Stack is MERN.
-Skilled in the following Tools/Technologies:
-- Amazon Web Services
-- Kubernetes
-- Docker
-- Linux
-- Terraform
-- Ansible
-- Git
-- Monitoring
-- Log management
+
  
 ### Socials
 connect with me : 
